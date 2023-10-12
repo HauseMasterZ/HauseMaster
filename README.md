@@ -15,13 +15,10 @@ I like to Heel Toe Downshift.
     width=100%
   />
 </picture>
+
 <picture>
   <img src="https://holopin.me/hausemaster" alt="Holopin" width=100% />
 </picture>
-
-<!---
-[![An image of @hausemaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hausemaster)](https://holopin.io/@hausemaster)
---->
 
 <!---
 HauseMasterZ/HauseMasterZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
