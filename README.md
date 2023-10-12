@@ -12,8 +12,17 @@ I like to Heel Toe Downshift.
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width=100%
   />
 </picture>
+<picture>
+  <img src="https://holopin.me/hausemaster" alt="Holopin" width=100% />
+</picture>
+
+<!---
+[![An image of @hausemaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hausemaster)](https://holopin.io/@hausemaster)
+--->
+
 <!---
 HauseMasterZ/HauseMasterZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
