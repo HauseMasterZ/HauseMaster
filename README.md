@@ -1,4 +1,6 @@
-I like to Heel Toe Downshift.
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1200&color=F7F7F7&random=false&width=435&lines=I+like+to+Heel+Toe+Downshift." alt="banner">
+</picture>
 
 <picture>
   <source
